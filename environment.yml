@@ -4,7 +4,7 @@ channels:
 dependencies:
   - pandas
   - numpy
-  - matplotlib.pyplot
+  - matplotlib
   - rpy2
   - scipy
   - os
