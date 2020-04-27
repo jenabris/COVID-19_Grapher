@@ -7,5 +7,7 @@ dependencies:
   - matplotlib
   - rpy2
   - scipy
-  - os
-  - datetime
+  - pip
+  - pip:
+      - os
+      - datetime
